@@ -1,3 +1,8 @@
+
+
+
+<img width="1280" height="720" alt="km_20260710-2_1080p_30f_20260710_025559-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/c6cd9a47-44bf-4968-8e36-ad73849987c2" />
+
 # expo-coin-reward
 
 A gesture-driven coin-flip reward reveal — drag-to-spin coin toss, then a Skia-powered scratch card to reveal the prize — built for fintech and rewards apps.
@@ -63,7 +68,7 @@ export default function Screen() {
 
 ## Preview
 
-<!-- TODO: preview video — same drag-and-drop-into-GitHub trick as the hero image -->
+https://github.com/user-attachments/assets/5f7964e2-59fa-4e81-a088-4958fa734511
 
 ---
 
