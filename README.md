@@ -127,11 +127,7 @@ type CoinFace = 'heads' | 'tails';
 
 ---
 
-## 🔤 Fonts
 
-Text elements use the **Space Grotesk** family (`SpaceGroteskMedium`, `SpaceGroteskBold`) by name. If you don't load these yourself via `expo-font` / `useFonts`, React Native falls back to the system font silently — everything still works, you'll just get system-font weights instead of Space Grotesk. Load the family under those exact names if you want the intended look.
-
----
 
 ## 📄 License
 
