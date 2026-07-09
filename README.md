@@ -16,7 +16,6 @@ A gesture-driven coin-flip reward reveal — drag-to-spin coin toss, then a Skia
 - 🪙 **Drag-to-spin coin toss** — velocity and translation both feed into whether a flip triggers, and how hard it spins; a light tap or slow drag just settles back instead of launching a flip
 - 🎴 **Skia-powered scratch reveal** — GPU-rendered erase-as-you-scratch overlay over a real `<Canvas>`, with grid-based coverage tracking that auto-completes the reveal once enough of the card is scratched clear
 - 🔗 **Two-moment callback API** — `onFlipComplete` fires the instant the coin lands, `onRevealComplete` fires once the reward is actually scratched clear — wire analytics and reward-unlock logic to each separately
-- 🎉 **Confetti on reveal** — a Lottie burst fires the moment the scratch threshold is crossed
 - ⏱️ **Self-syncing dismiss timing** — the card's dismiss delay is derived from `ScratchCard`'s real exit-animation duration rather than a hand-copied number, so the two can never drift out of sync
 - 🧠 **TypeScript-first** — fully typed props, no `any`
 - 🎨 **Fork-and-edit reward content** — `RevealContent` ships as a clearly-marked placeholder; swap in your own cashback / coupon / prize UI directly rather than fighting a config API
